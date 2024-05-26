@@ -23,8 +23,7 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 - Mobile-first workflow
 
 ## Author
-- Website - [bayoumi.dev](https://bayoumi.dev)
-- Frontend Mentor - @Bayoumi-dev
+- Abdulrahmon Soliu 
 
 
 
